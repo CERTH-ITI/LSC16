@@ -34,7 +34,8 @@
 
 namespace lslidar_c16_driver {
 
-//static uint16_t UDP_PORT_NUMBER = 8080;
+static uint16_t UDP_PORT_NUMBER = 8080;
+
 static uint16_t PACKET_SIZE = 1206;
 
 class LslidarC16Driver {
